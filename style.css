@@ -1,0 +1,606 @@
+
+*{
+    margin: auto;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+
+}
+
+body{
+    background-color: lightgray;
+}
+
+
+.mobile_main{
+
+
+    width: 375px;
+height: 5410px;
+left: 11282px;
+gap: 0px;
+opacity: 0px;
+background: #F7F7F9;
+}
+.header{
+width: 375px;
+height: 92px;
+padding: 20px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+justify-content: space-between;
+background-color: #ffff;
+
+}
+
+
+.header img{
+
+    width:40px;
+height: 40px;
+top: 4px;
+left: 311px;
+padding: 8px 0px 0px 0px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+margin-right: 15px;
+
+
+}
+
+.header h1{
+
+margin-left: 18px;
+width: 76px;
+height: 20px;
+gap: 0px;
+opacity: 0px;    
+font-size: 18px;
+font-weight:700;
+line-height: 20px;
+text-align: center;
+color: #6070FF;
+}
+
+.intro-section{
+
+top: 92px;
+padding: 114px 24px 114px 24px;
+gap: 12px;
+opacity: 0px; 
+background-image:url('images/header-shapes\ mobile.png');
+background-repeat: no-repeat;
+background-color: #ffff;
+border-radius: 0px 0px 0px 75px;
+
+} 
+
+.intro-section .intro{  
+
+    width: 327px;
+height: 150px;
+gap: 0px;
+opacity: 0px;
+
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+text-align: left;
+margin-left: 8px;
+margin-top:-10px;
+margin-bottom: 18px;
+}
+.intro-section .para{
+
+    width: 327px;
+height: 146px;
+gap: 0px;
+opacity: 0px;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #344563;
+margin-left: 8px;
+
+}
+.intro-section h2{
+    width: 117px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+   margin-left: 8px;
+   margin-top: 8px ;
+   margin-bottom: 14px;
+   color: #7F8CFF;
+
+}
+.intro-section img{
+
+    margin-left: 5px;
+} 
+
+.project-section{
+    height: 2,788px;
+    top: 718px;
+    padding: 70px 24px 114px 24px;
+    gap: 88px;
+    opacity: 0px;
+    
+    }
+    .project-1{
+
+    
+        width: 327px;
+        height: 552px;
+        padding: 16px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 16px 16px 16px 16px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        margin-top: 60px;
+        padding-top: 50px;
+
+        background-color: #ffff;
+    
+    }
+    .project-2{
+
+    
+        width: 327px;
+        height: 552px;
+        padding: 16px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 16px 16px 16px 16px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        margin-top: 60px;
+        padding-top: 50px;
+
+        background-color: #ffff;
+    
+    }
+    .project-3{
+
+    
+        width: 327px;
+        height: 552px;
+        padding: 16px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 16px 16px 16px 16px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        margin-top: 60px;
+        padding-top: 50px;
+
+        background-color: #ffff;
+    
+    }
+    .project-4{
+
+    
+        width: 327px;
+        height: 552px;
+        padding: 16px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 16px 16px 16px 16px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        margin-top: 60px;
+        padding-top: 50px;
+
+        background-color: #ffff;
+    
+    }
+
+.project-section img{
+
+    position:relative;
+width: 295px;
+height: 220px;
+margin-top: -30px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+margin-left:15px
+
+
+}
+.project-section h1{
+    width: 295px;
+height: 36px;
+gap: 0px;
+opacity: 0px;
+font-size: 32px;
+font-weight: 1000;
+line-height: 44px;
+text-align: left;
+margin-top:12px
+
+}
+.canopy{
+    padding-top: 20px;
+height:32px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+justify-content: left;
+
+}
+.canopy2{
+    padding-top: 55px;
+height:32px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+justify-content: left;
+
+}
+
+.canopy h4{
+
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    margin-left:15px;
+    text-align: left;
+    color: #344563;   
+}
+
+.canopy ul{
+   display: flex;
+   justify-content: space-between;
+   gap:25px;
+   padding-right: 50px;
+   height: 16px;
+   opacity: 0px;
+font-size: 13px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color:#7A869A;
+
+}
+.canopy2 h4{
+
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 16px;
+    margin-left:15px;
+    text-align: left;
+    color: #344563;   
+}
+
+.canopy2 ul{
+   display: flex;
+   justify-content: space-between;
+   gap:25px;
+   padding-right: 50px;
+   height: 16px;
+   opacity: 0px;
+font-size: 13px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+color:#7A869A;
+
+}
+
+
+.project-section p{
+    width: 295px;
+height: 76px;
+margin-top: 10px;
+gap: 0px;
+opacity: 0px;
+font-size: 17px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color:#344563;
+
+}
+
+.languages{
+
+    
+    height: 24px;
+    margin-left: 4px;
+    gap: 8px;
+    margin-top: 10px;
+    opacity: 0px;
+    display: flex;
+    justify-content: left;
+    margin-right: 50px;
+}
+.languages button{
+
+    width:74px;
+    height: 25px;
+font-size: 13px;
+font-weight: 500;
+
+line-height: 18px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #6070FF;
+border-radius: 8px;
+border-color: #EBEBFF;
+background-color: #EBEBFF;
+}
+
+.project-btn{
+ 
+    padding-top: 25px;
+    padding-bottom: 30px;
+
+}
+.project-btn button{
+    color: #396DF2;
+font-size: 17px;
+font-weight: 500;
+gap: 10px;
+width: 126px;
+height: 48px;
+background-color: white;
+border-radius: 8px;
+margin-left: 10px;
+border-color: #6070FF;
+}
+
+.about-myself{
+
+height:1,062.15px;
+top: 3506px;
+padding: 114px 24px 1114px 24px;
+gap: 24px;
+opacity: 0px;
+background-color: #ffff;
+border-radius: 0px 75px 0px 0px;
+
+}
+
+.about-myself h1{
+    width: 327px;
+height: 150px;
+gap: 0px;
+opacity: 0px;
+
+font-size: 45px;
+font-weight: 700;
+line-height: 52px;
+text-align: left;
+margin-left: 8px;
+margin-top:-10px;
+margin-bottom: 18px;
+
+}
+
+.about-myself p{
+
+    width: 327px;
+    height: 146px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: -100px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #344563;
+    margin-left: 8px;
+}
+
+.about-myself h2{
+
+    width: 117px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+   margin-left: 8px;
+   margin-top: 8px ;
+   margin-bottom: 14px;
+   color: #7F8CFF;
+}
+
+.about-myself img{
+
+    margin-left:4px;
+}
+
+.about-myself button{
+
+    padding-top: 12px;
+    padding-bottom: 30px;
+    margin-top: 5px;
+   color: #396DF2;
+font-size: 18px;
+font-weight: 500;
+gap: 10px;
+width: 150px;
+height: 48px;
+background-color: white;
+border-radius: 8px;
+margin-left: 10px;
+border-color: #6070FF;
+
+}
+
+.about-myself h3{
+
+    width:327px;
+height: 24px;
+top: 24px;
+left: 12px;
+margin-left: 25px;
+gap: 0px;
+opacity: 0px;
+margin-top: 40px;
+font-size: 20px;
+font-weight: 545px;
+line-height: 24px;
+text-align: left;
+color: #000000;
+
+}
+
+.arrow-down{
+    padding-left: 250px;
+    margin-top: -110px;
+}
+
+.lan{
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.frameworks{
+    width: 327px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.frameworks img{
+    padding-left: 250px;
+    margin-top: -180px;
+}
+
+.contact-info{
+
+    height: 2,788px;
+    top: 718px;
+    
+    gap: 88px;
+    opacity: 0px;
+        width: 375px;
+        height: 552px;
+        padding: 16px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 70px 0px 0px 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        margin-top: -900px;
+        padding-top: 50px;
+        padding-bottom: 295px;
+        background-color: #6070FF;
+        background-image: url('images/contact\ form\ shapes-mobile@2x.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+} 
+
+.contact-text{
+    color: white;
+    margin-top: 100px;
+}
+
+.contact-text h1{
+    display: flex;
+    justify-content: center;
+font-size: 40px;
+font-weight: 700;
+line-height: 52px;
+
+}
+
+.contact-text p{
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 15px;
+}
+
+form{
+    margin-top: 40px;
+    padding: 50px;
+    margin-top: -10px;
+}
+
+
+.namebox input{
+  
+    width: 295px;
+    margin-left: -20px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    border-color: #6070FF;
+    color: #172B4D;
+    font-size: 17px;
+    border-color: white;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    }
+
+    .emailbox input{
+        width: 295px;
+        margin-left: -20px;
+        height: 30px;
+        padding: 5px;
+        border-radius: 8px;
+        border-color: #6070FF;
+        color: #172B4D;
+        font-size: 17px;
+        font-weight: 400;
+        border-color: white;
+        line-height: 20px;
+        text-align: left;
+        }
+
+        .messagebox input{
+            width: 295px;
+            margin-left: -20px;
+            height: 150px;
+            padding: 5px;
+            border-radius: 8px;
+            border-color: #6070FF;
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 24px;
+            border-color: white;
+            text-align: start;
+            color: #B3BAC5;
+            }
+            
+            
+
+        .form-container button{
+            color: #6070FF;
+            background: #ffff;
+            width: 142px;
+            height: 48px;
+            top: 5317px;
+            left: 24px;
+            margin-left: -20px;
+            padding: 12px 16px 12px 16px;
+            border-radius: 8px;
+            opacity: 0px;
+            border-color: white;
+            font-size: 17px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.03em;
+            text-align: center;
+        }
+
+        
